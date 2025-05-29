@@ -11,6 +11,15 @@ Here is a list of some resources I found helpful in my project-based AI-learning
 ## Resources by Section
 Backend + Chat Model: (youtube tutorial from before) https://www.youtube.com/watch?v=rxKYK3DIzN0
 
+Connecting Gemini to VS Code: https://www.youtube.com/watch?v=AtxpgXlqsEc
+
+How to keep API keys secure: https://medium.com/@oadaramola/a-pitfall-i-almost-fell-into-d1d3461b2fb8
+
+How to create a .gitignore file: https://docs.github.com/en/get-started/git-basics/ignoring-files
+
+More comprehensive guide on .gitignore files: https://medium.com/@t.rosen2101/how-to-create-a-gitignore-file-to-hide-your-api-keys-95b3e6692e41
+
+Gemini quickstart guide: https://ai.google.dev/gemini-api/docs/quickstart?lang=python#javascript_1
 
 
 ## OLD--using OpenAI
