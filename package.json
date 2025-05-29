@@ -19,7 +19,7 @@
   },
   "scripts": {
     "build": "npx webpack --mode development",
-    "start": "npx webpack serve"
+    "start": "npm run build && npx webpack serve"
   },
   "keywords": [],
   "author": "",

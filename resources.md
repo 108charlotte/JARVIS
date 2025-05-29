@@ -27,6 +27,11 @@ Gemini quickstart guide: https://ai.google.dev/gemini-api/docs/quickstart?lang=p
 
 Good tutorial but they use the blaze plan which is paid: https://www.youtube.com/watch?v=Zx2Z4KUj1o4
 
+# Misc
+How to detect a button press with javascript: https://stackoverflow.com/questions/2788191/how-to-check-whether-a-button-is-clicked-by-using-javascript
+
+Get the value of html input using javascript: https://www.shecodes.io/athena/77658-how-to-get-the-value-of-an-input-in-javascript#:~:text=To%20get%20the%20value%20of%20an%20input%20in%20JavaScript%2C%20you,user%20in%20the%20input%20field.&text=%2F%2F%20HTML%20%3Cinput%20type%3D%22,%22)%3B%20const%20inputValue%20%3D%20input.
+
 
 ## OLD--using OpenAI
 

@@ -8,7 +8,7 @@ module.exports = {
     chatbot: './src/chatbot.js',
   }, 
   output: {
-    filename: '[name].bundle.js', // <-- [name] will be replaced by entry key
+    filename: '[name].bundle.js',
     path: path.resolve(__dirname, 'dist'),
     clean: true,
   },
