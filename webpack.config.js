@@ -3,9 +3,12 @@ const path = require('path')
 const webpack = require('webpack');
 
 module.exports = {
-  entry: './src/firebase-init.js',
+  entry: {
+    firebase_init: './src/firebase-init.js',
+    chatbot: './src/chatbot.js',
+  }, 
   output: {
-    filename: 'bundle.js',
+    filename: '[name].bundle.js', // <-- [name] will be replaced by entry key
     path: path.resolve(__dirname, 'dist'),
     clean: true,
   },

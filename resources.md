@@ -8,6 +8,10 @@ Here is a list of some resources I found helpful in my project-based AI-learning
 - Notion API: Free (your own API token)
 - Storage: Firestore (free tier)
 
+UPDATE API KEY USING: firebase functions:config:set gemini.key="NEW_API_KEY"
+
+DEPLOY: firebase serve --only hosting
+
 ## Resources by Section
 Backend + Chat Model: (youtube tutorial from before) https://www.youtube.com/watch?v=rxKYK3DIzN0
 
@@ -20,6 +24,8 @@ How to create a .gitignore file: https://docs.github.com/en/get-started/git-basi
 More comprehensive guide on .gitignore files: https://medium.com/@t.rosen2101/how-to-create-a-gitignore-file-to-hide-your-api-keys-95b3e6692e41
 
 Gemini quickstart guide: https://ai.google.dev/gemini-api/docs/quickstart?lang=python#javascript_1
+
+Good tutorial but they use the blaze plan which is paid: https://www.youtube.com/watch?v=Zx2Z4KUj1o4
 
 
 ## OLD--using OpenAI

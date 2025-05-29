@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@google/genai": "^1.2.0",
     "dotenv": "^16.5.0",
     "firebase": "^11.8.1"
   },
@@ -17,7 +18,7 @@
     "webpack-dev-server": "^5.2.1"
   },
   "scripts": {
-    "build": "rm -r dist && npx webpack --mode development",
+    "build": "npx webpack --mode development",
     "start": "npx webpack serve"
   },
   "keywords": [],
